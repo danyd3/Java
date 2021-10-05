@@ -1,0 +1,16 @@
+public class holamundojava {
+	/*
+	 * Aplicacion Java
+	 * Title                  :Hola mundo en Java
+	 * Description            :Hola mundo en Java desde Vim
+	 * Author                 :Daniel Alberto De Jesus (danyd3)
+	 * Date                   :20211005
+	 * Usage                  :c:\>javac /path/holamundojava.java
+	 *
+	 * Hola mundo en Java
+	 */
+
+	public static void main(String []args){
+		System.out.println("Hola mundo en Java desde Vim");
+	}
+}
